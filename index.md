@@ -8,4 +8,5 @@ Originally trained in molecular biology, I obtained my PhD in computational gene
 
 I have worked in the DoD community for several years, and I'm also a registered United States patent agent.
 
-Follow me on Twitter ([@strnr](https://twitter.com/strnr)), [email me](email.html), or [download my CV](cv.pdf).
+**Twitter: [@strnr](https://twitter.com/strnr)**  
+**Email:** [click](email.html), or: `echo wvtufqifo@hnbjm.dpn | tr '[b-{' '[a-z]'`
