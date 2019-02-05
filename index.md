@@ -2,11 +2,9 @@
 
 <i class="ai ai-google-scholar-square ai-3x"></i>
 
-I'm an assistant professor of Public Health at the University of Virginia School of Medicine. I founded UVA's [Bioinformatics Core](http://bioinformatics.virginia.edu) in 2011 and have since served as director. 
+I'm a data scientist and senior informatics science & technology adviser at [Signature Science, LLC.](http://www.signaturescience.com/) in Charlottesville, Virginia, specializing in genomics and bioinformatics in forensics applications. I'm also a visiting faculty member in the Public Health Sciences department and in the Center for Public Health Genomics at the University of Virginia School of Medicine. While at UVA I founded the Bioinformatics Core and served as its director from 2011-2019. 
 
-Originally trained in molecular biology, I obtained my PhD in computational genetics and an MS in statistics, and did a postdoc in epidemiology. I work directly with collaborators to provide bioinformatics consulting, study design, and data analysis expertise, working closely with investigators in the experimental design and analysis of genome-scale research, including studies of gene expression, protein-DNA binding, DNA methylation, and DNA variation, and metagenomics, using both array and next-generation sequencing technologies.
-
-I have worked in the DoD community for several years, and I'm also a registered United States patent agent.
+After early my early training in molecular biology, I obtained my Ph.D. in human genetics and an M.S. in statistics, and followed with a postdoc in epidemiology. I provide bioinformatics consulting, study design, and data analysis expertise, working closely with my collaborators in the experimental design and analysis of genome-scale data, with a focus on human and microbial forensics, microbial genomic epidemiology, and metagenomics. 
 
 <!-- **Twitter: [@strnr](https://twitter.com/strnr)**   -->
 <!-- **Email:** `echo wvtufqifo@hnbjm.dpn | tr '[b-{' '[a-z]'` -->
