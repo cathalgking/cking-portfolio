@@ -1,4 +1,4 @@
-### Hi, I'm Stephen.
+### Hi, I'm Cathal.
 
 <i class="ai ai-google-scholar-square ai-3x"></i>
 
