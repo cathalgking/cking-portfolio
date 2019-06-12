@@ -8,7 +8,7 @@ My main duties include inferring metrics, descriptive statistics and making visu
 
 My early training during my bachelor's degree gave me a solid foundation in mathematics, physics, molecular biology and pedagogy. Valuable experience was gained in the secondary education sector and subsequently at a service based biotech company where I moved toward the data science field. In August 2018, I graduated with a MSc in Computational Genomics. The degree centred on the Python and R programming languages and included computational techniques to analyse and visualise large cohorts of datasets; not only in the bioinformatics domain but in any sub division of 'big data'.
 
-My main interests in data science include machine learning, neural networks and data visualisation. Feel free to check out my YouTube channel which shows some of my visualisations.
+My main interests in data science include machine learning, neural networks and data visualisation. Feel free to contact me to find out more or check out my YouTube channel which shows some of my visualisations.
 
 <!-- **Twitter: [@cking](https://twitter.com/strnr)**   -->
 <!-- **Email:** `echo wvtufqifo@hnbjm.dpn | tr '[b-{' '[a-z]'` -->
