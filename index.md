@@ -10,7 +10,7 @@ My early training during my bachelor's degree gave me a solid foundation in math
 
 My main interests in data science include machine learning, neural networks and data visualisation. Feel free to contact me at cathalgking@gmail.com to find out more. Thanks:)
 
-[](https://www.youtube.com/watch?v=XePDcWaZnuo)
+[click to see video](https://www.youtube.com/watch?v=XePDcWaZnuo)
 
 <!-- **Twitter: [@cking](https://twitter.com/strnr)**   -->
 <!-- **Email:** `echo wvtufqifo@hnbjm.dpn | tr '[b-{' '[a-z]'` -->
