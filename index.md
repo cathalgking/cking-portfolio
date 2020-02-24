@@ -10,9 +10,9 @@ My early training during my bachelor's degree gave me a solid foundation in math
 
 My main interests in data science include machine learning, neural networks and data visualisation. Feel free to contact me at cathalgking@gmail.com to find out more. Thanks:)
 
-!![demographics map]('/home/cathal_king/Downloads/3D PCA Plotly.html')
 
-<iframe height="400" src="/home/cathal_king/Downloads/3D PCA Plotly.html" width="90%"></iframe>
+
+<iframe height="400" src="https://github.com/cathalgking/cking-portfolio/blob/master/3D%20PCA%20Plotly.html" width="90%"></iframe>
 
 <!-- **Twitter: [@cking](https://twitter.com/strnr)**   -->
 <!-- **Email:** `echo wvtufqifo@hnbjm.dpn | tr '[b-{' '[a-z]'` -->
