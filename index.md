@@ -12,7 +12,7 @@ My main interests in data science include machine learning, neural networks and 
 
 
 
-<iframe height="400" src="https://github.com/cathalgking/cking-portfolio/blob/master/3D%20PCA%20Plotly.html" width="90%"></iframe>
+<iframe height="4000" src="https://github.com/cathalgking/cking-portfolio/blob/master/3D%20PCA%20Plotly.html" width="90%"></iframe>
 
 <!-- **Twitter: [@cking](https://twitter.com/strnr)**   -->
 <!-- **Email:** `echo wvtufqifo@hnbjm.dpn | tr '[b-{' '[a-z]'` -->
