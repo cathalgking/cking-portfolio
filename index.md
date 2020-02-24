@@ -12,5 +12,7 @@ My main interests in data science include machine learning, neural networks and 
 
 !![demographics map]('/home/cathal_king/Downloads/3D PCA Plotly.html')
 
+<iframe height="400" src="/home/cathal_king/Downloads/3D PCA Plotly.html" width="90%"></iframe>
+
 <!-- **Twitter: [@cking](https://twitter.com/strnr)**   -->
 <!-- **Email:** `echo wvtufqifo@hnbjm.dpn | tr '[b-{' '[a-z]'` -->
