@@ -10,7 +10,7 @@ My early training during my bachelor's degree gave me a solid foundation in math
 
 My main interests in data science include machine learning, neural networks and data visualisation. Feel free to contact me at cathalgking@gmail.com to find out more. Thanks:)
 
-![alt text](https://github.com/cathalgking/cking-portfolio/blob/master/counts.png)
+![](http://placekitten.com/g/800/800)
 
 
 <!-- <iframe height="4000" src="https://github.com/cathalgking/cking-portfolio/blob/master/3D%20PCA%20Plotly.html" width="90%"></iframe> -->
