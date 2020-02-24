@@ -12,7 +12,6 @@ My main interests in data science include machine learning, neural networks and 
 
 ![](http://placekitten.com/g/800/800)
 
-[gimmick:googlemaps](Madison Square Garden, NY)
 
 
 <!-- <iframe height="4000" src="https://github.com/cathalgking/cking-portfolio/blob/master/3D%20PCA%20Plotly.html" width="90%"></iframe> -->
