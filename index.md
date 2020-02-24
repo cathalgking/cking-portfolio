@@ -11,6 +11,7 @@ My early training during my bachelor's degree gave me a solid foundation in math
 My main interests in data science include machine learning, neural networks and data visualisation. Feel free to contact me at cathalgking@gmail.com to find out more. Thanks:)
 
 ![](http://placekitten.com/g/800/800)
+![](counts.png)
 
 
 
