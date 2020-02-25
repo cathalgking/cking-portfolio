@@ -12,6 +12,8 @@ My main interests in data science include machine learning, neural networks and 
 
 ![](Skippy.jpg)
 
+![](3D PCA Plotly.html)
+
 
 
 <!-- <iframe height="4000" src="https://github.com/cathalgking/cking-portfolio/blob/master/3D%20PCA%20Plotly.html" width="90%"></iframe> -->
