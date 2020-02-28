@@ -10,6 +10,10 @@ My early training during my bachelor's degree gave me a solid foundation in math
 
 My main interests in data science include machine learning, neural networks and data visualisation. Feel free to contact me at cathalgking@gmail.com to find out more. Thanks:)
 
+<p style="max-width: 50%; float: right;">
+![Alt Picture Text](counts.png "The Caption Of Something")
+</p>
+
 ![](example-1-test.html)
 
 
