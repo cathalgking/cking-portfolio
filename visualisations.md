@@ -1,4 +1,4 @@
-* A collection of some of my previous Visualisations*
+# *A Collection of some of my previous Visualisations*
 
 ## A 3D PCA plot
 
