@@ -10,6 +10,8 @@
 <iframe height="700" src="01_leaflet2.html" width="80%"></iframe>
 
 
+### *A map of Co. Galway, Ireland*
+
+#### Partition the County Galway area by constituency and add some pop ups. 
 
 
-### *A map of the constituencies in Co. Galway, Ireland*
