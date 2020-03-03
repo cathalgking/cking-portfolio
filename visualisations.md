@@ -9,7 +9,7 @@
 
 <iframe height="700" src="example-1-test.html" width="80%"></iframe>
 
-<iframe height="700" src="01_leaflet.html" width="80%"></iframe>
+<iframe height="700" src="01_leaflet2.html" width="80%"></iframe>
 
 
 
