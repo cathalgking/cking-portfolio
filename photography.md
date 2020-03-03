@@ -1,9 +1,9 @@
-## Photography
+# Photography
 
-### Skippy!!!
+## Skippy!!!
 
 ![](Skippy.jpg)
 
-More to follow ...
+### More to follow ...
 
 
