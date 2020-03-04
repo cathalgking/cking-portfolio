@@ -15,5 +15,7 @@
 ### *A map of Co. Galway, Ireland*
 
 #### Partition the County Galway area by constituency and add some pop ups. 
+<iframe height="700" src="03_geojson.html" width="80%"></iframe>
+
 
 
