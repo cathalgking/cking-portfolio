@@ -9,7 +9,7 @@
 
 <iframe height="700" src="3D_PCA_Plotly.html" width="80%"></iframe>
 
-<iframe height="700" src="01_leaflet2.html" width="80%"></iframe>
+
 
 
 ### *A map of Co. Galway, Ireland*
