@@ -10,6 +10,9 @@
 <iframe height="700" src="3D_PCA_Plotly.html" width="80%" align="middle"></iframe>
 
 <br>
+<br>
+<br>
+<br>
 ### **Electoral Divisions within Galway City & County, Ireland**
 
 #### Partition the County Galway area by constituency and add some pop up information.
