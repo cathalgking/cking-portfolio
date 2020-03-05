@@ -1,4 +1,4 @@
-### **A collection of some of my previous data visualisations**
+## **A collection of some of my previous data visualisations**
 
 #### Interactive visualisations can have many benefits over static images in terms of data manipulation especially for multi-layered data. Below, I utilize existing technology to help tell the data story.
 <br>
