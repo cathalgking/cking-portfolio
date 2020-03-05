@@ -1,8 +1,7 @@
 ### A collection of some of my previous data visualisations
 
 #### Interactive visualisations can have many benefits over static images in terms of data manipulation especially for multi-layered data. Below, I utilize existing technology to help tell the data story.
-
-
+<br>
 #### **A 3D PCA plot**
 #### Click, drag and mouse over the data points in this 3D scatter plot. The plot shows a Principal Component (PC) Analysis on RNA sequencing data from 3 locations of the brain (Cortex, Hindbrain & Striatum) and are plotted as 3 colours. A PC analysis is a common first step on most data types to observe any clustering of the data (if any).  
 
