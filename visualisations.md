@@ -8,9 +8,9 @@
 #### One advantage of 3D here is that it can reveal more complex interactions between data points as opposed to a standard 2D plot. For example, the yellow diamond shaped points (representing hind brain) can appear to be more closely related than they actually are when only viewed on the first and 2nd PC.
 
 <iframe height="700" src="3D_PCA_Plotly.html" width="80%" align="middle"></iframe>
+<br>
 
-
-#### *Electoral Divisions within Galway City & County, Ireland*
+#### **Electoral Divisions within Galway City & County, Ireland**
 
 #### Partition the County Galway area by constituency and add some pop up information.
 <iframe height="1700" src="03_geojson.html" width="100%"></iframe>
