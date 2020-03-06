@@ -17,5 +17,5 @@
 #### The County Galway area is partitioned by electoral constituency. Mouse over the map and click on the constituency of interest. As an extra layer of data, Vacancy Rates (the % of rental units not rented) in 2011 was added as a pop up which was taken from Census data. Mapping visualisations provide enhanced understanding and context of the region of interest and can present a wide range of information at once.
 <iframe height="700" src="03_geojson_Altered.html" width="100%"></iframe>
 
-More to follow
+# More to follow...
 
