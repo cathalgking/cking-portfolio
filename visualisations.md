@@ -18,4 +18,7 @@
 <iframe height="700" src="03_geojson_Altered.html" width="100%"></iframe>
 
 **More to follow...**
+new plotly plot
+<iframe height="700" src="plotly_example.html" width="80%" align="middle"></iframe>
+
 
