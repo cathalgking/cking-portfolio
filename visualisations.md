@@ -19,4 +19,6 @@
 
 **More to follow...**
 
+<iframe height="650" src="test_highcharts.html" width="100%"></iframe>
+
 
