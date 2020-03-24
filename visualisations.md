@@ -20,7 +20,9 @@
 <br>
 <br>
 
-### **Highcharts map**
+### **Populations**
+
+#### A chart is dramatically improved aesthetically with Highcharts, a JavaScript package. Avoid extrapolating by mousing over the points to reveal the exact data point. Plot shows population of Ireland, New Zealand and Iceland from 1990 to 2014.   
 
 <iframe height="650" src="populations.html" width="100%"></iframe>
 
