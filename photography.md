@@ -1,6 +1,6 @@
 # Photography
 
-## Skippy!!!
+## 
 
 ![](img0003.jpg)
 
