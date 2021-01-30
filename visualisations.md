@@ -6,6 +6,12 @@ A population plot short [2 population plot  report](https://rawcdn.githack.com/c
 works - genes report
 A population plot short [2 genes plot  report](https://rawcdn.githack.com/cathalgking/cking-portfolio/278cd427b6e266f308af897c88c3e009f705b5db/Colonic_tumours_GeneList.html "Image source") that will search for and visualise genes related to a disease of interest.
 
+PCA Plot
+A population plot short [2 PCA plot  report](https://rawcdn.githack.com/cathalgking/cking-portfolio/039953c95d095c112387ba83529ec3d8d1b6a9c8/3D_PCA_Plotly.html "Image source") that will search for and visualise genes related to a
+
+Galway map
+A population plot short [2 galway map report](https://rawcdn.githack.com/cathalgking/cking-portfolio/039953c95d095c112387ba83529ec3d8d1b6a9c8/03_geojson_Altered.html "Image source") that will search for and visualise 
+
 
 #### Interactive visualisations can have many benefits over static images in terms of data manipulation especially for multi-layered data. Below, I utilize existing technology to help tell the data story.
 <br>
