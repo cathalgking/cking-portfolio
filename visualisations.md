@@ -32,8 +32,6 @@
 
 Top-level image courtesy of [Cathals Resume](https://drive.google.com/file/d/1ofFnZtNhOF1I_JJM4PhaKAMCuEYYBGMF/view?usp=sharing "Image source") licensed under CC-BY-ND 2.0
 
-<iframe height="650" src="https://drive.google.com/file/d/1ofFnZtNhOF1I_JJM4PhaKAMCuEYYBGMF/view?usp=sharing" width="100%"></iframe>
-
 **More to follow...**
 
 
@@ -41,5 +39,5 @@ Images courtesy of [Leap Kye](http://www.flickr.com/photos/leapkye/), licensed u
 
 Top-level image courtesy of [Moyann Brenn](http://www.flickr.com/photos/aigle_dore/ "Image source") licensed under CC-BY-ND 2.0
 
-this should open my genes html [nice genes HTML report] (http://htmlpreview.github.com/?https://github.com/cathalgking/cking-portfolio/blob/master/Colonic_tumours_GeneList.html) this is it
+this should open my genes html [nice genes HTML report] (http://htmlpreview.github.com/?https://github.com/cathalgking/cking-portfolio/blob/master/Colonic_tumours_GeneList.html "image source") this is it
 
