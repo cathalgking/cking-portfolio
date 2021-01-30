@@ -43,5 +43,9 @@ A Populations PLOT short [pop HTML report](http://htmlpreview.github.com/?https:
 
 
 
-
+works
 A population plot short [2 population plot  report](https://rawcdn.githack.com/cathalgking/cking-portfolio/8f1fbf23d429a495d5f2791dd86a2b83abe1c28f/populations.html "Image source") that will search for and visualise genes related to a disease of interest.
+
+now with genes report
+A population plot short [2 genes plot  report](https://rawcdn.githack.com/cathalgking/cking-portfolio/278cd427b6e266f308af897c88c3e009f705b5db/Colonic_tumours_GeneList.html "Image source") that will search for and visualise genes related to a disease of interest.
+
