@@ -4,9 +4,8 @@
 [This short report](https://rawcdn.githack.com/cathalgking/cking-portfolio/278cd427b6e266f308af897c88c3e009f705b5db/Colonic_tumours_GeneList.html "Image source") searches for and plots the genes most associated with a disease of interest, using the MeSH (Medical Subject Heading) with the disgenet2r R package. Colorectal Neoplasms are used as an example.
 
 
-**Populations**
-A chart is dramatically improved aesthetically with Highcharts, a JavaScript package. Avoid extrapolating by mousing over the points to reveal the exact data point. Plot shows population of Ireland, New Zealand and Iceland from 1990 to 2014.
-A [plot showing](https://rawcdn.githack.com/cathalgking/cking-portfolio/8f1fbf23d429a495d5f2791dd86a2b83abe1c28f/populations.html "Image source") the populations of ireland, nz and iceland.
+**Populations Chart**
+The Highcharts JavaScript package is aesthetically pleasing and produces useful interactive features. Mouse over the points to reveal the exact data point. [This Plot](https://rawcdn.githack.com/cathalgking/cking-portfolio/8f1fbf23d429a495d5f2791dd86a2b83abe1c28f/populations.html "Image source") shows the population of Ireland, New Zealand and Iceland from 1990 to 2014.
 
 
 
