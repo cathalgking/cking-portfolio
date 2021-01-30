@@ -27,10 +27,13 @@
 <iframe height="650" src="populations.html" width="100%"></iframe>
 
 
-**More to follow...**
-
 
 
 A short [HTML report](http://htmlpreview.github.com/?https://github.com/cathalgking/cking-portfolio/blob/master/Colonic_tumours_GeneList.html "Image source") that will search for and visualise genes related to a disease of interest.
 
+
+**More to follow...**
+
+
+A PCA PLOT short [HTML report](http://htmlpreview.github.com/?https://github.com/cathalgking/cking-portfolio/blob/master/3D_PCA_Plotly.html "Image source") that will search for and visualise genes related to a disease of interest.
 
