@@ -41,6 +41,5 @@ Images courtesy of [Leap Kye](http://www.flickr.com/photos/leapkye/), licensed u
 
 Top-level image courtesy of [Moyann Brenn](http://www.flickr.com/photos/aigle_dore/ "Image source") licensed under CC-BY-ND 2.0
 
-this should open my genes html
-http://htmlpreview.github.com/?https://github.com/cathalgking/cking-portfolio/blob/master/Colonic_tumours_GeneList.html
+this should open my genes html [nice genes HTML report] (http://htmlpreview.github.com/?https://github.com/cathalgking/cking-portfolio/blob/master/Colonic_tumours_GeneList.html) this is it
 
