@@ -38,8 +38,6 @@ Want to know more?
 --------------
 The one great book on this topic that has to be named here, is this one:
 
-![muscle cars - kings of the street from the golden era](muscle_cars_book.png)
-
 you can get it from [amazon][1] or [barnes & noble][2].
 
 [1]: http://www.amazon.com/gp/product/images/1412715229/ref=dp_image_z_0?ie=utf8&n=283155&s=books
