@@ -29,7 +29,7 @@
 
 
 
-A short [HTML report](http://htmlpreview.github.com/?https://github.com/cathalgking/cking-portfolio/blob/master/Colonic_tumours_GeneList.html "Image source") that will search for and visualise genes related to a disease of interest.
+A short [HTML report](https://rawcdn.githack.com/cathalgking/cking-portfolio/71a3c61213cded55da9e7e1c49ce2767dd50fa20/Colonic_tumours_GeneList.html "Image source") that will search for and visualise genes related to a disease of interest.
 
 
 **More to follow...**
@@ -41,6 +41,7 @@ A PCA PLOT short [pca HTML report](http://htmlpreview.github.com/?https://github
 try it with populations
 A Populations PLOT short [pop HTML report](http://htmlpreview.github.com/?https://github.com/cathalgking/cking-portfolio/blob/master/populations.html "Image source") that will search for and visualise genes related to a disease of interest.
 
-https://rawcdn.githack.com/cathalgking/cking-portfolio/71a3c61213cded55da9e7e1c49ce2767dd50fa20/Colonic_tumours_GeneList.html
 
-https://rawcdn.githack.com/cathalgking/cking-portfolio/8f1fbf23d429a495d5f2791dd86a2b83abe1c28f/populations.html
+
+
+A population plot short [population plot  report](https://rawcdn.githack.com/cathalgking/cking-portfolio/8f1fbf23d429a495d5f2791dd86a2b83abe1c28f/populations.html "Image source") that will search for and visualise genes related to a disease of interest.
