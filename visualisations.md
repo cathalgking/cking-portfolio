@@ -44,6 +44,6 @@ this should open my genes html [nice genes HTML report] (http://htmlpreview.gith
 
 
 
-Top-level image courtesy of [Cathals Resume](https://drive.google.com/file/d/1ofFnZtNhOF1I_JJM4PhaKAMCuEYYBGMF/view?usp=sharing "Image source") licensed under CC-BY-ND 2.0
+Top-level image courtesy of [Cathals Resumes](http://htmlpreview.github.com/?https://github.com/cathalgking/cking-portfolio/blob/master/Colonic_tumours_GeneList.html "Image source") licensed under CC-BY-ND 2.0
 
 
