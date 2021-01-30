@@ -30,10 +30,14 @@
 
 <iframe height="650" src="Colonic_tumours_GeneList.html" width="100%"></iframe>
 
-
+Top-level image courtesy of(https://drive.google.com/file/d/1ofFnZtNhOF1I_JJM4PhaKAMCuEYYBGMF/view?usp=sharing "Image source") licensed under CC-BY-ND 2.0
 
 <iframe height="650" src="https://drive.google.com/file/d/1ofFnZtNhOF1I_JJM4PhaKAMCuEYYBGMF/view?usp=sharing" width="100%"></iframe>
 
 **More to follow...**
 
+
+Images courtesy of [Leap Kye](http://www.flickr.com/photos/leapkye/), licensed under CC-BY-ND 2.0
+
+Top-level image courtesy of [Moyann Brenn](http://www.flickr.com/photos/aigle_dore/ "Image source") licensed under CC-BY-ND 2.0
 
