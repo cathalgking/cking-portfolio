@@ -1,4 +1,4 @@
-***A collection of some of my previous works (in development)***
+*A collection of some of my previous works (in development)*
 
 **Query genes/variants related to a human disease**
 [This short report](https://rawcdn.githack.com/cathalgking/cking-portfolio/278cd427b6e266f308af897c88c3e009f705b5db/Colonic_tumours_GeneList.html "Image source") searches for and plots the genes most associated with a disease of interest, using the MeSH (Medical Subject Heading) with the disgenet2r R package. Colorectal Neoplasms are used as an example.
