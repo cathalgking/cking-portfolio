@@ -37,3 +37,8 @@ A short [HTML report](http://htmlpreview.github.com/?https://github.com/cathalgk
 
 A PCA PLOT short [pca HTML report](http://htmlpreview.github.com/?https://github.com/cathalgking/cking-portfolio/blob/master/3D_PCA_Plotly.html "Image source") that will search for and visualise genes related to a disease of interest.
 
+
+try it with populations
+A Populations PLOT short [pop HTML report](http://htmlpreview.github.com/?https://github.com/cathalgking/cking-portfolio/blob/master/populations.html "Image source") that will search for and visualise genes related to a disease of interest.
+
+
