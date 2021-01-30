@@ -1,7 +1,7 @@
 ## **A collection of some of my previous works (in development)**
 
-**Mine genes related to a disease**
-A [short script](https://rawcdn.githack.com/cathalgking/cking-portfolio/278cd427b6e266f308af897c88c3e009f705b5db/Colonic_tumours_GeneList.html "Image source") that searches for and plots the genes most associated with a disease of interest, using the MeSH (Medical Subject Heading.)
+**Quickly mine genes/variants related to a human disease**
+[This short report](https://rawcdn.githack.com/cathalgking/cking-portfolio/278cd427b6e266f308af897c88c3e009f705b5db/Colonic_tumours_GeneList.html "Image source") searches for and plots the genes most associated with a disease of interest, using the MeSH (Medical Subject Heading). Using the disgenet2r R package is used to find genes related to colonic tumours.
 
 
 **Populations**
