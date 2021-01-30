@@ -34,12 +34,3 @@
 **More to follow...**
 
 
-Want to know more?
---------------
-The one great book on this topic that has to be named here, is this one:
-
-you can get it from [amazon][1] or [barnes & noble][2].
-
-[1]: http://www.amazon.com/gp/product/images/1412715229/ref=dp_image_z_0?ie=utf8&n=283155&s=books
-[2]: http://www.barnesandnoble.com/w/muscle-cars-auto-editors-of-consumer-guide/1018815262
-
