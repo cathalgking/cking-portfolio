@@ -31,6 +31,6 @@
 
 
 
-Top-level image courtesy of [HTML report](http://htmlpreview.github.com/?https://github.com/cathalgking/cking-portfolio/blob/master/Colonic_tumours_GeneList.html "Image source") licensed under CC-BY-ND 2.0
+A short [HTML report](http://htmlpreview.github.com/?https://github.com/cathalgking/cking-portfolio/blob/master/Colonic_tumours_GeneList.html "Image source") that will search for and visualise genes related to a disease of interest.
 
 
