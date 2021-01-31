@@ -14,5 +14,5 @@ The Highcharts JavaScript package is aesthetically pleasing and produces useful 
 
 
 
-
-https://rawcdn.githack.com/cathalgking/MSc-Thesis/14399151241cecb1507effe8ab4562942c20b6b5/Thesis_Write_Up_Cathal_King_17235058.pdf
+**Genetics variants**
+[This thesis] (https://rawcdn.githack.com/cathalgking/MSc-Thesis/14399151241cecb1507effe8ab4562942c20b6b5/Thesis_Write_Up_Cathal_King_17235058.pdf) shows
