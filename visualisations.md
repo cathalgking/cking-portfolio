@@ -13,6 +13,8 @@ The Highcharts JavaScript package is aesthetically pleasing and produces useful 
 [This Visualisation](https://rawcdn.githack.com/cathalgking/cking-portfolio/039953c95d095c112387ba83529ec3d8d1b6a9c8/03_geojson_Altered.html "Image source") shows the County Galway area which is partitioned by electoral constituency. Mouse over the map and click on the constituency of interest. As an extra layer of data, Vacancy Rates (the % of rental units not rented) in 2011 was added as a pop up which was taken from Census data. Mapping visualisations provide enhanced understanding and context of the region of interest and can present a wide range of information at once. Generated using the Leaflet library for interactive maps.
 
 
+**Query genes/variants related to a human disease**
+[This Thesis](https://rawcdn.githack.com/cathalgking/MSc-Thesis/14399151241cecb1507effe8ab4562942c20b6b5/Thesis_Write_Up_Cathal_King_17235058.pdf "Image source") variants
 
 **Genetics variants**
 [This thesis] (https://rawcdn.githack.com/cathalgking/MSc-Thesis/14399151241cecb1507effe8ab4562942c20b6b5/Thesis_Write_Up_Cathal_King_17235058.pdf) shows
