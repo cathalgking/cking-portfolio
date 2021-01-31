@@ -1,5 +1,8 @@
 # Cathal King
 
+[gimmick:themechooser](Choose theme)
+[gimmick:theme](flatly)
+
 [<i class="fa fa-info-circle       fa" aria-hidden="true"></i>&nbsp;&nbsp;About](index.md)
 [<i class="fa fa-linkedin       fa-lg" aria-hidden="true"></i>&nbsp;&nbsp;LinkedIn](https://www.linkedin.com/in/cathal-king)
 [<i class="fa fa-github         fa-lg" aria-hidden="true"></i>&nbsp;&nbsp;Github](https://github.com/cathalgking)
