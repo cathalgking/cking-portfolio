@@ -6,7 +6,9 @@ Bioinformatician currently working on a project collaboration with [UL](https://
 
 Recent projects include data analysis of modern high-throughput genomics experiments such as RNA-seq and ChIP-Rx. Set to receive authorship on an upcoming lab publication regarding the childhood cancer diffuse intrinsic pontine glioma (DIPG) and in the future on a publication regarding B-cell non-Hodgkin lymphoma.
 
-My early training during my bachelor's degree gave me a solid foundation in maths & physics, molecular biology and pedagogy. Valuable experience was gained as a teacher in secondary education and subsequently at a service based biotech company where I moved toward the biotech field. In August 2018, I graduated with a MSc in Computational Genomics. The degree centred on the Python and R programming languages and included computational techniques to analyse and visualise large cohorts of datasets; not only in the bioinformatics domain but in any sub division of 'big data'.
+My early training during my bachelor's degree gave me a solid foundation in maths & physics, molecular biology and pedagogy. Valuable experience was gained as a teacher in secondary education and subsequently at a service based biotech company where I moved toward the biotech field. In August 2018, I graduated with a MSc in Computational Genomics. 
+
+<!--  The degree centred on the Python and R programming languages and included computational techniques to analyse and visualise large cohorts of datasets; not only in the bioinformatics domain but in any sub division of 'big data'.
 
 My main interests in data science include machine learning, cloud computing and data visualisation. Feel free to contact me at <span style="color:blue">cathalgking@gmail.com</span> Thanks :D 
 
