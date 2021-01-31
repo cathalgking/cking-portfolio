@@ -1,6 +1,6 @@
 # Cathal King
 
-[gimmick:themechooser](Choose theme)
+
 [gimmick:theme](flatly)
 
 [<i class="fa fa-info-circle       fa" aria-hidden="true"></i>&nbsp;&nbsp;About](index.md)
