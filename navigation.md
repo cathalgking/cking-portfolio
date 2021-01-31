@@ -1,7 +1,7 @@
 # Cathal King
 
 
-[gimmick:theme](yeti)
+[gimmick:theme](Materia)
 
 [<i class="fa fa-info-circle       fa" aria-hidden="true"></i>&nbsp;&nbsp;About](index.md)
 [<i class="fa fa-linkedin       fa-lg" aria-hidden="true"></i>&nbsp;&nbsp;LinkedIn](https://www.linkedin.com/in/cathal-king)
