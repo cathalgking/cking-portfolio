@@ -3,6 +3,9 @@
 **Query genes/variants related to a human disease**
 [This short report](https://rawcdn.githack.com/cathalgking/cking-portfolio/278cd427b6e266f308af897c88c3e009f705b5db/Colonic_tumours_GeneList.html "Image source") searches for and plots the genes most associated with a disease of interest, using the MeSH (Medical Subject Heading) with the disgenet2r R package. Colorectal Neoplasms are used as an example.
 <br>
+**Somatic variants**
+[This Thesis](https://rawcdn.githack.com/cathalgking/MSc-Thesis/14399151241cecb1507effe8ab4562942c20b6b5/Thesis_Write_Up_Cathal_King_17235058.pdf "Image source") variants
+<br>
 **Populations Chart**
 The Highcharts JavaScript package is aesthetically pleasing and produces useful interactive features. Mouse over the points to reveal the exact data point. [This Plot](https://rawcdn.githack.com/cathalgking/cking-portfolio/8f1fbf23d429a495d5f2791dd86a2b83abe1c28f/populations.html "Image source") shows the population of Ireland, New Zealand and Iceland from 1990 to 2014.
 <br>
@@ -13,8 +16,4 @@ The Highcharts JavaScript package is aesthetically pleasing and produces useful 
 [This Visualisation](https://rawcdn.githack.com/cathalgking/cking-portfolio/039953c95d095c112387ba83529ec3d8d1b6a9c8/03_geojson_Altered.html "Image source") shows the County Galway area which is partitioned by electoral constituency. Mouse over the map and click on the constituency of interest. As an extra layer of data, Vacancy Rates (the % of rental units not rented) in 2011 was added as a pop up which was taken from Census data. Mapping visualisations provide enhanced understanding and context of the region of interest and can present a wide range of information at once. Generated using the Leaflet library for interactive maps.
 
 
-**Query genes/variants related to a human disease**
-[This Thesis](https://rawcdn.githack.com/cathalgking/MSc-Thesis/14399151241cecb1507effe8ab4562942c20b6b5/Thesis_Write_Up_Cathal_King_17235058.pdf "Image source") variants
 
-**Genetics variants**
-[This thesis] (https://rawcdn.githack.com/cathalgking/MSc-Thesis/14399151241cecb1507effe8ab4562942c20b6b5/Thesis_Write_Up_Cathal_King_17235058.pdf) shows
