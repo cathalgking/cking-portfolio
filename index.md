@@ -6,9 +6,9 @@ Bioinformatician currently working on a project collaboration with [UL](https://
 
 My early training during my bachelor's degree gave me a solid foundation in maths & physics, molecular biology and pedagogy. Valuable experience was gained as a teacher in secondary education and subsequently at a service based biotech company where I moved toward the biotech field. In August 2018, I graduated with a MSc in Computational Genomics. 
 
-<!--  The degree centred on the Python and R programming languages and included computational techniques to analyse and visualise large cohorts of datasets; not only in the bioinformatics domain but in any sub division of 'big data'.
+<!--  The degree centred on the Python and R programming languages and included computational techniques to analyse and visualise large cohorts of datasets; not only in the bioinformatics domain but in any sub division of 'big data'. -->
 
-My main interests in data science include machine learning, cloud computing and data visualisation. Feel free to contact me at <span style="color:blue">cathalgking@gmail.com</span> Thanks :D 
+My main interests in data science include NGS, machine learning, cloud computing and data visualisation. Feel free to contact me at <span style="color:blue">cathalgking@gmail.com</span> Thanks :D 
 
 <!-- <iframe height="4000" src="https://github.com/cathalgking/cking-portfolio/blob/master/3D%20PCA%20Plotly.html" width="90%"></iframe> -->
 
