@@ -6,6 +6,9 @@
 **Genetic variants associated with chemo-resistance/recurrence in head and neck squamous cell carcinoma (HNSCC)**
 [This Thesis](https://rawcdn.githack.com/cathalgking/MSc-Thesis/14399151241cecb1507effe8ab4562942c20b6b5/Thesis_Write_Up_Cathal_King_17235058.pdf "Image source") was part of the MSc in Computational Genomics at NUI Galway. It uses the Genome Analysis Toolkit (GATK) best practice workflow along with the Picard suite of preprocessing tools to identify mutational signatures in 3 HNSCC patients.
 <br>
+**RShiny App**
+[This Shiny app](https://cathalgking.shinyapps.io/Shiny_Prediction_App/ "Image source") disaplays 3 
+<br>
 **Populations Chart**
 The Highcharts JavaScript package is aesthetically pleasing and produces useful interactive features. Mouse over the points to reveal the exact data point. [This Plot](https://rawcdn.githack.com/cathalgking/cking-portfolio/8f1fbf23d429a495d5f2791dd86a2b83abe1c28f/populations.html "Image source") shows the population of Ireland, New Zealand and Iceland from 1990 to 2014.
 <br>
