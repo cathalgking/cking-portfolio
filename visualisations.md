@@ -9,8 +9,8 @@
 **RShiny Prediction App**
 [This RShiny app](https://cathalgking.shinyapps.io/Shiny_Prediction_App/ "Image source") takes student test results and predicts future grade levels. It is based upon a pre-built Regularized Logistic Regression model generated using the caret R package.
 <br>
-**RShiny Prediction App**
-[This course](https://www.futurelearn.com/certificates/j2mnf9c "Image source") more data mining with weka
+**More Data Mining with Weka**
+[This course](https://www.futurelearn.com/certificates/j2mnf9c "Image source") taught advanced data mining skills using the Weka workbench.
 <br>
 **Populations Chart**
 The Highcharts JavaScript package is aesthetically pleasing and produces useful interactive features. Mouse over the points to reveal the exact data point. [This Plot](https://rawcdn.githack.com/cathalgking/cking-portfolio/8f1fbf23d429a495d5f2791dd86a2b83abe1c28f/populations.html "Image source") shows the population of Ireland, New Zealand and Iceland from 1990 to 2014.
