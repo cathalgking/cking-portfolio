@@ -1,7 +1,7 @@
 ###A collection of some of my previous works {in development}
 <br>
 **AWS Certified Cloud Practitioner**
-[This certification](https://www.credly.com/badges/00a44360-b3cd-4764-a7a5-2c4c8a5e9a23/public_url "Image source") searches for and plots the genes most associated with a disease of interest, using the MeSH (Medical Subject Heading) with the disgenet2r R package. Colorectal Neoplasms are used as an example.
+[This AWS certification](https://www.credly.com/badges/00a44360-b3cd-4764-a7a5-2c4c8a5e9a23/public_url "Image source") provided training in using Amazon Web Services (AWS) for cloud conputing analyses.
 <br>
 **Query genes/variants related to a human disease**
 [This short report](https://rawcdn.githack.com/cathalgking/cking-portfolio/278cd427b6e266f308af897c88c3e009f705b5db/Colonic_tumours_GeneList.html "Image source") searches for and plots the genes most associated with a disease of interest, using the MeSH (Medical Subject Heading) with the disgenet2r R package. Colorectal Neoplasms are used as an example.
